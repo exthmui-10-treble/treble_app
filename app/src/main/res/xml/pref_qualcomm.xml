@@ -3,20 +3,20 @@
     <SwitchPreference
         android:defaultValue="false"
         android:key="key_qualcomm_alternate_mediaprofile"
-        android:title="Use alternate camera profile"
-        android:summary="Requires a reboot" />
+        android:title="@string/qualcomm_alternate_mediaprofile"
+        android:summary="@string/general_requires_a_reboot" />
     <SwitchPreference
         android:defaultValue="false"
         android:key="key_qualcomm_alternate_audiopolicy"
-        android:title="Use alternate audio policy" />
+        android:title="@string/general_alternate_audiopolicy" />
     <SwitchPreference
         android:defaultValue="false"
         android:key="key_qualcomm_disable_soundvolume_effect"
-        android:title="Disable soundvolume effect"
-        android:summary="May fix audio distorsion" />
+        android:title="@string/qualcomm_disable_soundvolume_effect"
+        android:summary="@string/qualcomm_disable_soundvolume_effect_summary" />
     <SwitchPreference
         android:defaultValue="false"
         android:key="key_qualcomm_disable_stereo_voip"
-        android:title="Disable stereo support on VoIP"
-        android:summary="May fix high pitched audio. Requires a reboot" />
+        android:title="@string/qualcomm_disable_stereo_voip"
+        android:summary="@string/qualcomm_disable_stereo_voip_summary" />
 </PreferenceScreen>

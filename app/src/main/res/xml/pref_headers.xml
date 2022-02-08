@@ -1,52 +1,52 @@
 <preference-headers xmlns:android="http://schemas.android.com/apk/res/android">
     <header
         android:fragment="me.phh.treble.app.MyDeviceSettingsFragment"
-        android:title="My device" />
+        android:title="@string/my_device" />
     <header
         android:fragment="me.phh.treble.app.OnePlusSettingsFragment"
-        android:title="OnePlus features" />
+        android:title="@string/oneplus_features" />
     <header
         android:fragment="me.phh.treble.app.NubiaSettingsFragment"
-        android:title="Nubia features" />
+        android:title="@string/nubia_features" />
     <header
         android:fragment="me.phh.treble.app.VsmartSettingsFragment"
-        android:title="Vsmart features" />
+        android:title="@string/vsmart_features" />
     <header
         android:fragment="me.phh.treble.app.QualcommSettingsFragment"
-        android:title="Qualcomm features" />
+        android:title="@string/qualcomm_features" />
     <header
         android:fragment="me.phh.treble.app.HuaweiSettingsFragment"
-        android:title="Huawei features" />
+        android:title="@string/huawei_features" />
     <header
         android:fragment="me.phh.treble.app.SamsungSettingsFragment"
-        android:title="Samsung features" />
+        android:title="@string/samsung_features" />
     <header
         android:fragment="me.phh.treble.app.LenovoSettingsFragment"
-        android:title="Lenovo features" />
+        android:title="@string/lenovo_features" />
     <header
         android:fragment="me.phh.treble.app.XiaomiSettingsFragment"
-        android:title="Xiaomi features" />
+        android:title="@string/xiaomi_features" />
     <header
         android:fragment="me.phh.treble.app.OppoSettingsFragment"
-        android:title="Oppo features" />
+        android:title="@string/oppo_features" />
     <header
         android:fragment="me.phh.treble.app.AsusSettingsFragment"
         android:title="Asus features" />
     <header
         android:fragment="me.phh.treble.app.DozeSettingsFragment"
-        android:title="Doze features" />
+        android:title="@string/doze_features" />
     <header
         android:fragment="me.phh.treble.app.MiscSettingsFragment"
-        android:title="Misc features" />
+        android:title="@string/misc_features" />
     <header
         android:fragment="me.phh.treble.app.ImsSettingsFragment"
-        android:title="IMS features" />
+        android:title="@string/ims_features" />
     <header
         android:fragment="me.phh.treble.app.CustomSettingsFragment"
-        android:title="Customization features" />
+        android:title="@string/customization_features" />
     <header
         android:id="@+id/updater"
-        android:title="Updater">
+        android:title="@string/updater">
         <intent android:action="android.settings.SYSTEM_UPDATE_SETTINGS"
                 android:targetClass=".UpdaterActivity"/>
     </header>
