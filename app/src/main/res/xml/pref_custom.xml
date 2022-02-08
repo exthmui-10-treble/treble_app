@@ -1,45 +1,45 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PreferenceScreen
 	xmlns:android="http://schemas.android.com/apk/res/android">
-    <Preference android:title="System UI Tuner">
+    <Preference android:title="@string/custom_system_ui_tuner">
         <intent
             android:action="android.intent.action.VIEW"
             android:targetPackage="com.android.systemui"
             android:targetClass="com.android.systemui.DemoMode" />
     </Preference>
-    <PreferenceCategory android:title="UI">
+    <PreferenceCategory android:title="@string/custom_ui">
 		<ListPreference
 		    android:defaultValue="0"
 		    android:entries="@array/pref_custom_pointer_type"
 		    android:entryValues="@array/pref_custom_pointer_type_values"
 		    android:key="key_custom_pointer_type"
-            android:title="Pointer type"
-            android:summary="Requires a reboot" />
+            android:title="@string/custom_pointer_type"
+            android:summary="@string/general_requires_a_reboot" />
     </PreferenceCategory>
-    <PreferenceCategory android:title="Styles">
+    <PreferenceCategory android:title="@string/custom_styles">
 	<ListPreference
 		android:defaultValue=""
             android:entries="@array/pref_custom_accent_color"
             android:entryValues="@array/pref_custom_accent_color_values"
             android:key="key_custom_accent_color"
-		android:title="Accent color" />
+		android:title="@string/custom_accent_color" />
 	<ListPreference
 		android:defaultValue=""
             android:entries="@array/pref_custom_icon_shape"
             android:entryValues="@array/pref_custom_icon_shape_values"
             android:key="key_custom_icon_shape"
-		android:title="Icon shape" />
+		android:title="@string/custom_icon_shape" />
 	<ListPreference
 		android:defaultValue=""
             android:entries="@array/pref_custom_icon_pack"
             android:entryValues="@array/pref_custom_icon_pack_values"
             android:key="key_custom_icon_pack"
-		android:title="Icon pack" />
+		android:title="@string/custom_icon_pack" />
 	<ListPreference
 		android:defaultValue=""
             android:entries="@array/pref_custom_font_family"
             android:entryValues="@array/pref_custom_font_family_values"
             android:key="key_custom_font_family"
-		android:title="Font family" />
+		android:title="@string/custom_font_family" />
     </PreferenceCategory>
 </PreferenceScreen>
