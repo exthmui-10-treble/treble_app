@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <array name="pref_oneplus_display_mode">
-        <item>Default</item>
+        <item>デフォルト</item>
         <item>DCI-P3</item>
         <item>sRGB</item>
     </array>
@@ -11,7 +11,7 @@
         <item>srgb</item>
     </array>
     <array name="pref_oneplus_display_high_brightness">
-        <item>Disabled</item>
+        <item>無効</item>
         <item>"1"</item>
         <item>"2"</item>
         <item>"3"</item>
