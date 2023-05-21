@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <array name="pref_huawei_fast_charge">
-	    <item>Standard USB charging (1500mA)</item>
-	    <item>Mid-fast (2750mA)</item>
-	    <item>Fast (4000mA)</item>
+	    <item>標準のUSB充電 (1500mA)</item>
+	    <item>中速 (2750mA)</item>
+	    <item>高速 (4000mA)</item>
     </array>
     <array name="pref_huawei_fast_charge_values">
 	    <item>"-1"</item>
