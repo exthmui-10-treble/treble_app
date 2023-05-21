@@ -5,8 +5,8 @@
       <item>"ペンポインタ"</item>
     </array>
     <array name="pref_custom_pointer_type_values">
-      <item>"マウス"</item>
-      <item>"ペン"</item>
+      <item>"mouse"</item>
+      <item>"pen"</item>
     </array>
 
     <array name="pref_custom_accent_color">
