@@ -1,37 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <array name="pref_custom_pointer_type">
-      <item>"Mouse cursor"</item>
-      <item>"Pen pointer"</item>
+      <item>"マウスカーソル"</item>
+      <item>"ペンポインタ"</item>
     </array>
     <array name="pref_custom_pointer_type_values">
-      <item>"mouse"</item>
-      <item>"pen"</item>
+      <item>"マウス"</item>
+      <item>"ペン"</item>
     </array>
 
     <array name="pref_custom_accent_color">
-	    <item>"Default"</item>
+	    <item>"デフォルト"</item>
     </array>
     <array name="pref_custom_accent_color_values">
 	    <item>""</item>
     </array>
 
     <array name="pref_custom_icon_shape">
-	    <item>"Default"</item>
+	    <item>"デフォルト"</item>
     </array>
     <array name="pref_custom_icon_shape_values">
 	    <item>""</item>
     </array>
 
     <array name="pref_custom_icon_pack">
-	    <item>"Default"</item>
+	    <item>"デフォルト"</item>
     </array>
     <array name="pref_custom_icon_pack_values">
 	    <item>""</item>
     </array>
 
     <array name="pref_custom_font_family">
-	    <item>"Default"</item>
+	    <item>"デフォルト"</item>
     </array>
     <array name="pref_custom_font_family_values">
 	    <item>""</item>
