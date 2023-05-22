@@ -115,18 +115,18 @@
   <string name="misc_restart_ril">RIL を自動で再起動</string>
   <string name="misc_dt2w">ダブルタップで起動</string>
   <string name="misc_dt2w_summary">機能が動作する可能性は低いです</string>
-  <string name="misc_fod_color">Under-display fp color</string>
-  <string name="misc_securize">Securize</string>
+  <string name="misc_fod_color">アンダーディスプレイ FP カラー</string>
+  <string name="misc_securize">セキュアライズ</string>
   <string name="misc_debugging">デバッグ</string>
   <string name="misc_debug_sensors">センサーのデバッグ</string>
-  <string name="misc_remotectl">Allow takeover of the device by phh for debugging</string>
+  <string name="misc_remotectl">デバッグのために phh によるデバイスの占有を許可</string>
   <!-- My device -->
-  <string name="mydevice_maintainer">Maintainer for my device</string>
-  <string name="mydevice_telegram_group">Community telegram group for my device</string>
-  <string name="mydevice_apply_presets">Apply presets</string>
+  <string name="mydevice_maintainer">マイデバイスのメンテナ</string>
+  <string name="mydevice_telegram_group">デバイスの Telegram グループ</string>
+  <string name="mydevice_apply_presets">プリセットを適用</string>
   <!-- Nubia -->
   <string name="nubia_fan_speed">ファンの速度</string>
-  <string name="nubia_redmagic_logo_breath">Make Redmagic logo breath</string>
+  <string name="nubia_redmagic_logo_breath">RedMagic ロゴをブレスさせる</string>
   <string name="nubia_leds">LED</string>
   <string name="nubia_redmagic_led">REDMAGIC RGB</string>
   <string name="nubia_boosts">ブースト</string>
@@ -139,17 +139,17 @@
   <!-- OPPO -->
   <string name="oppo_dc_diming">DC 調光を有効化</string>
   <!-- Qualcomm -->
-  <string name="qualcomm_alternate_mediaprofile">Use alternate camera profile</string>
-  <string name="qualcomm_disable_soundvolume_effect">Disable soundvolume effect</string>
-  <string name="qualcomm_disable_soundvolume_effect_summary">May fix audio distorsion</string>
-  <string name="qualcomm_disable_stereo_voip">Disable stereo support on VoIP</string>
-  <string name="qualcomm_disable_stereo_voip_summary">May fix high pitched audio. Requires a reboot</string>
+  <string name="qualcomm_alternate_mediaprofile">代替のカメラプロファイルを使用する</string>
+  <string name="qualcomm_disable_soundvolume_effect">サウンドボリュームエフェクトを無効化</string>
+  <string name="qualcomm_disable_soundvolume_effect_summary">音の乱れが修正できる場合があります</string>
+  <string name="qualcomm_disable_stereo_voip">VoIP のステレオ対応を無効化</string>
+  <string name="qualcomm_disable_stereo_voip_summary">高音の音声を修正できる場合があります。再起動が必要です</string>
   <!-- Samsung -->
   <string name="samsung_audio_stereo">ステレオオーディオモードを有効化</string>
-  <string name="samsung_disable_back_mic">Disable Built-In Back Mic</string>
-  <string name="samsung_disable_back_mic_summary">May fix broken mic on video recording</string>
-  <string name="samsung_esco_transport_unit_size">Set eSCO transport unit size</string>
-  <string name="samsung_high_brightness">Enable extended brightness range</string>
+  <string name="samsung_disable_back_mic">内蔵バックマイクを無効化</string>
+  <string name="samsung_disable_back_mic_summary">動画撮影時のマイク音の異常を修正できます</string>
+  <string name="samsung_esco_transport_unit_size">eSCO トランスポートユニットサイズを設定</string>
+  <string name="samsung_high_brightness">輝度範囲の拡張を有効化</string>
   <string name="samsung_glove_mode">手袋モードを有効化</string>
   <string name="samsung_wireless_charging_transmit">Enable reversed wireless charging(If applicable)</string>
   <string name="samsung_fod_single_click">Clicking fingerprint turns device on</string>
