@@ -94,7 +94,7 @@
   <string name="misc_fps_divisor">FPS 除数</string>
   <string name="misc_display_fps">FPS を強制</string>
   <string name="misc_restart_systemui">SystemUI を再起動</string>
-  <string name="misc_restart_systemui_summary">画面の解像度の変更後に行なう事を推奨します\n root 権限が必要です</string>
+  <string name="misc_restart_systemui_summary">画面の解像度の変更後に行なう事を推奨します\n Root 権限が必要です</string>
   <string name="misc_no_hwcomposer">HW オーバーレイを無効化</string>
   <string name="misc_no_hwcomposer_summary">CPU とバッテリーを多く消費します</string>
   <string name="misc_aod">常時表示画面を強制する</string>
@@ -111,10 +111,10 @@
   <string name="misc_dynamic_sysbta">システム全体の BT HAL を使用する</string>
   <string name="misc_force_navbar_off">強制的にナビゲーションバーを無効化</string>
   <string name="misc_storage_fuse">FUSE ストレージレイヤーを無効化</string>
-  <string name="misc_storage_fuse_summary">This can (de/in)crease storage speed\nRequires a reboot</string>
-  <string name="misc_restart_ril">Automatically restart RIL</string>
-  <string name="misc_dt2w">Double tap to wake</string>
-  <string name="misc_dt2w_summary">Unlikely to work for you</string>
+  <string name="misc_storage_fuse_summary">ストレージの速度が低下する可能性があります\n再起動が必要です</string>
+  <string name="misc_restart_ril">RIL を自動で再起動</string>
+  <string name="misc_dt2w">ダブルタップで起動</string>
+  <string name="misc_dt2w_summary">機能が動作する可能性は低いです</string>
   <string name="misc_fod_color">Under-display fp color</string>
   <string name="misc_securize">Securize</string>
   <string name="misc_debugging">デバッグ</string>
