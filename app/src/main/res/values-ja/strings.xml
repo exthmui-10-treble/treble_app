@@ -18,12 +18,12 @@
   <string name="update_error_message">ダウンロード中にエラーが発生しました!\n後ほどやり直してください。</string>
   <string name="success_install_message">アップデートのインストールが正常に完了しました。\n今すぐに再起動をしてください。</string>
   <string name="failed_download_message">アップデートのダウンロードに失敗しました。\n詳細はログを確認してください。</string>
-  <string name="failed_install_message">New update failed to be installed.\nCheck your logs for more information.</string>
+  <string name="failed_install_message">新しいアップデートのインストールに失敗しました。\n詳細はログを確認してください。</string>
   <string name="preparing_update_title">システムアップデートを確認中です</string>
   <string name="downloading_update_title">システムアップデートをダウンロード中です</string>
   <string name="applying_update_title">システムアップデートを適用中です</string>
-  <string name="applied_update_title">Update applied successfully</string>
-  <string name="prevent_exit_message">The update is still ongoing. Leaving the app now will stop it.\nDo you really want to exit now?</string>
+  <string name="applied_update_title">アップデートが正常に適用されました</string>
+  <string name="prevent_exit_message">アップデートはまだ継続中です。アプリを終了すると停止します。\n今すぐに終了しますか？</string>
   <string name="warning_dialog_title">警告</string>
   <string name="magisk_exists_message">Magisk was detected! If you proceed with the update you may lose Magisk or the installation may fail!</string>
   <string name="menu_delete_ota">OTAファイルを削除</string>
