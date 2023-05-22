@@ -45,7 +45,7 @@
   <string name="general_audio">オーディオ</string>
   <string name="general_camera">カメラ</string>
   <string name="general_display">画面</string>
-  <string name="general_enable_dt2w">ダブルタップで起動を有効化</string>
+  <string name="general_enable_dt2w">ダブルタップで点灯を有効化</string>
   <string name="general_double_tap_to_wake">DT2W を有効化</string>
   <string name="general_game_mode">ゲームモードを有効化</string>
   <string name="general_usb_otg">USB OTG を有効化</string>
@@ -151,17 +151,17 @@
   <string name="samsung_esco_transport_unit_size">eSCO トランスポートユニットサイズを設定</string>
   <string name="samsung_high_brightness">輝度範囲の拡張を有効化</string>
   <string name="samsung_glove_mode">手袋モードを有効化</string>
-  <string name="samsung_wireless_charging_transmit">Enable reversed wireless charging(If applicable)</string>
-  <string name="samsung_fod_single_click">Clicking fingerprint turns device on</string>
-  <string name="samsung_flash_strength">Set flash strength</string>
-  <string name="samsung_flash_strength_summary">Usually values are integers between 1 and 5</string>
-  <string name="samsung_camera_ids">Enable access to all cameras</string>
-  <string name="samsung_camera_ids_summary">Requires Q vendor</string>
-  <string name="samsung_workarounds">Workarounds</string>
-  <string name="samsung_extra_sensors">Enable extra sensors</string>
-  <string name="samsung_colorspace">Enable workaround for white-ish screen</string>
-  <string name="samsung_broken_fingerprint">Enable workaround for broken fingerprint</string>
-  <string name="samsung_backlight_multiplier">Set backlight scale/max backlight level</string>
+  <string name="samsung_wireless_charging_transmit">リバースワイヤレス充電を有効化 (該当する場合)</string>
+  <string name="samsung_fod_single_click">指紋センサーをクリックで画面を点灯</string>
+  <string name="samsung_flash_strength">フラッシュの強さを設定</string>
+  <string name="samsung_flash_strength_summary">値は 1～5 の整数値になります</string>
+  <string name="samsung_camera_ids">すべてのカメラをアクセス可能にする</string>
+  <string name="samsung_camera_ids_summary">Q vendor が必要です</string>
+  <string name="samsung_workarounds">回避策</string>
+  <string name="samsung_extra_sensors">追加のセンサーを有効化</string>
+  <string name="samsung_colorspace">画面が白っぽくなる現象の回避策を有効化</string>
+  <string name="samsung_broken_fingerprint">壊れた指紋認証の回避策を有効化</string>
+  <string name="samsung_backlight_multiplier">バックライトスケール、レベルの最大値を設定</string>
   <!-- Xiaomi -->
-  <string name="xiaomi_disable_sunlight_mode">Disable Sunlight Mode</string>
+  <string name="xiaomi_disable_sunlight_mode">太陽光スクリーンを無効化</string>
 </resources>
