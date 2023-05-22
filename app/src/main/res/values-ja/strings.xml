@@ -2,11 +2,11 @@
 <resources>
   <string name="app_name">PhhTrebleApp</string>
   <string name="title_activity_settings">設定</string>
-  <string name="title_activity_top_level">Phh Treble の設定</string>
+  <string name="title_activity_top_level">Phh Treble 設定</string>
   <string name="desc_activity_top_level">デバイス固有の設定</string>
-  <string name="remove_telephony_subsystem">Telephonyサブシステムを削除</string>
-  <string name="remove_root">Rootを削除</string>
-  <string name="continue_question">続行しますか?</string>
+  <string name="remove_telephony_subsystem">Telephony サブシステムを削除</string>
+  <string name="remove_root">Root を削除</string>
+  <string name="continue_question">続行しますか？</string>
   <string name="title_activity_updater">アップデータ</string>
   <string name="update_not_found_title">使用中のシステムは最新です</string>
   <string name="update_found_title">システムアップデートが可能です</string>
@@ -14,7 +14,7 @@
   <string name="update_found_button">ダウンロードとインストール</string>
   <string name="update_not_found_button">アップデートを確認</string>
   <string name="error_dialog_title">エラー</string>
-  <string name="dynamic_device_message">使用しているデバイスはOTAアップデートに対応していません!</string>
+  <string name="dynamic_device_message">使用しているデバイスは OTA アップデートに対応していません!</string>
   <string name="update_error_message">ダウンロード中にエラーが発生しました!\n後ほどやり直してください。</string>
   <string name="success_install_message">アップデートのインストールが正常に完了しました。\n今すぐに再起動をしてください。</string>
   <string name="failed_download_message">アップデートのダウンロードに失敗しました。\n詳細はログを確認してください。</string>
@@ -46,26 +46,26 @@
   <string name="general_camera">カメラ</string>
   <string name="general_display">画面</string>
   <string name="general_enable_dt2w">ダブルタップで起動を有効化</string>
-  <string name="general_double_tap_to_wake">DT2Wを有効化</string>
+  <string name="general_double_tap_to_wake">DT2W を有効化</string>
   <string name="general_game_mode">ゲームモードを有効化</string>
-  <string name="general_usb_otg">USB OTGを有効化</string>
+  <string name="general_usb_otg">USB OTG を有効化</string>
   <string name="general_misc">その他</string>
   <string name="general_other">その他</string>
   <string name="general_requires_a_reboot">再起動が必要です</string>
   <string name="general_screen">画面</string>
   <string name="general_touchscreen">タッチスクリーン</string>
-  <string name="general_alternate_audiopolicy">別のオーディオポリシーを使用する</string>
+  <string name="general_alternate_audiopolicy">代替のオーディオポリシーを使用する</string>
   <!-- Headers -->
   <string name="my_device">マイデバイス</string>
-  <string name="oneplus_features">OnePlusの機能</string>
-  <string name="nubia_features">Nubiaの機能</string>
-  <string name="vsmart_features">Vsmartの機能</string>
-  <string name="qualcomm_features">Qualcommの機能</string>
-  <string name="huawei_features">Huaweiの機能</string>
-  <string name="samsung_features">Samsungの機能</string>
-  <string name="lenovo_features">Lenovoの機能</string>
-  <string name="xiaomi_features">Xiaomiの機能</string>
-  <string name="oppo_features">OPPOの機能</string>
+  <string name="oneplus_features">OnePlus の機能</string>
+  <string name="nubia_features">Nubia の機能</string>
+  <string name="vsmart_features">Vsmart の機能</string>
+  <string name="qualcomm_features">Qualcomm の機能</string>
+  <string name="huawei_features">Huawei の機能</string>
+  <string name="samsung_features">Samsung の機能</string>
+  <string name="lenovo_features">Lenovo の機能</string>
+  <string name="xiaomi_features">Xiaomi の機能</string>
+  <string name="oppo_features">OPPO の機能</string>
   <string name="doze_features">Doze features</string>
   <string name="misc_features">Misc features</string>
   <string name="ims_features">IMS features</string>
@@ -76,26 +76,26 @@
   <string name="huawei_fingerprint_gestures">指紋認証ジェスチャーを有効化</string>
   <string name="huawei_touchscreen_glove_mode">手袋モードを有効化</string>
   <string name="huawei_graphic_issues_workaround">Enable graphic issues workaround (recommended if ui is blurry)</string>
-  <string name="huawei_fast_charge">Huaweiの高速充電</string>
+  <string name="huawei_fast_charge">Huawei の高速充電</string>
   <!-- IMS -->
-  <string name="ims_create_apn">IMS APNを作成</string>
-  <string name="ims_install_apn">IMS APKをダウンロードとインストール</string>
-  <string name="ims_request_network">IMSネットワークをリクエスト</string>
+  <string name="ims_create_apn">IMS APN を作成</string>
+  <string name="ims_install_apn">IMS APK をダウンロードとインストール</string>
+  <string name="ims_request_network">IMS ネットワークをリクエスト</string>
   <string name="ims_force_enable_setting">Force the presence of 4G Calling setting</string>
   <!-- Misc -->
   <string name="misc_sponsor">Sponsor phh</string>
   <string name="misc_mobile_network">モバイルネットワーク</string>
   <string name="misc_mobile_signal">信号メーターの方式</string>
-  <string name="misc_huawei_headset_fix">ヘッドセットスイッチを強制 (Huaweiのデフォルト)</string>
+  <string name="misc_huawei_headset_fix">ヘッドセットスイッチを強制 (Huawei のデフォルト)</string>
   <string name="misc_headset_devinput">Use alternate way to detect headsets</string>
   <string name="misc_disable_audio_effects">オーディオエフェクトを無効化</string>
   <string name="misc_rounded_corners">Set rounded corners diameter</string>
   <string name="misc_rounded_corners_overlay">Set forced/faked rounded corners diameter</string>
   <string name="misc_fps_divisor">FPS Divisor</string>
-  <string name="misc_display_fps">FPSを強制</string>
-  <string name="misc_restart_systemui">SystemUIを再起動</string>
+  <string name="misc_display_fps">FPS を強制</string>
+  <string name="misc_restart_systemui">SystemUI を再起動</string>
   <string name="misc_restart_systemui_summary">Recommended after switching display resolution\nRequires root</string>
-  <string name="misc_no_hwcomposer">HWオーバーレイを無効化</string>
+  <string name="misc_no_hwcomposer">HW オーバーレイを無効化</string>
   <string name="misc_no_hwcomposer_summary">Eats more CPU and battery</string>
   <string name="misc_aod">Force allow Always-On Display</string>
   <string name="misc_backlight">バックライト</string>
@@ -137,7 +137,7 @@
   <string name="oneplus_display_mode">画面モード</string>
   <string name="oneplus_display_high_brightness">高輝度モード</string>
   <!-- OPPO -->
-  <string name="oppo_dc_diming">DC調光を有効化</string>
+  <string name="oppo_dc_diming">DC 調光を有効化</string>
   <!-- Qualcomm -->
   <string name="qualcomm_alternate_mediaprofile">Use alternate camera profile</string>
   <string name="qualcomm_disable_soundvolume_effect">Disable soundvolume effect</string>
