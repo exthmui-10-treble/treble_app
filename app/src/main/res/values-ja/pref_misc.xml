@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <array name="pref_misc_mobile_signal">
-    <item>Androidのデフォルト</item>
-    <item>Huaweiのデバイス/OpenKirin</item>
+    <item>Android のデフォルト</item>
+    <item>Huawei のデバイス/OpenKirin</item>
     <item>RSSI</item>
     <item>RSRP</item>
     <item>RSSNR</item>
