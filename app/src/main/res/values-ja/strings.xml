@@ -46,7 +46,7 @@
   <string name="general_camera">カメラ</string>
   <string name="general_display">画面</string>
   <string name="general_enable_dt2w">ダブルタップで点灯を有効化</string>
-  <string name="general_double_tap_to_wake">DT2W を有効化</string>
+  <string name="general_double_tap_to_wake">ダブルタップで点灯を有効化</string>
   <string name="general_game_mode">ゲームモードを有効化</string>
   <string name="general_usb_otg">USB OTG を有効化</string>
   <string name="general_misc">その他</string>
