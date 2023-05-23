@@ -99,14 +99,14 @@
   <string name="misc_no_hwcomposer_summary">CPU とバッテリーをより多く消費します</string>
   <string name="misc_aod">常時表示画面を強制する</string>
   <string name="misc_backlight">バックライト</string>
-  <string name="misc_linear_brightness">リニア画面の輝度スライダーを使用する</string>
+  <string name="misc_linear_brightness">リニアスクリーンの輝度スライダーを使用する</string>
   <string name="misc_disable_buttons_backlight">ハードウェアボタンのバックライトがある場合は無効化する</string>
   <string name="misc_backlight_scale">代替のバックライトスケールを強制使用する</string>
   <string name="misc_minimal_brightness">輝度を最低に設定できるようにする</string>
   <string name="misc_multi_camera">Aux カメラを露出</string>
   <string name="misc_force_camera2api_hal3">Camera2API HAL3 を強制的に有効化</string>
   <string name="misc_camera_timestamp">タイムスタンプソースを強制</string>
-  <string name="misc_bluetooth">Bluetooth の回避策</string>
+  <string name="misc_bluetooth">Bluetooth の問題の回避</string>
   <string name="misc_max_aspect_ratio_pre_o">互換性のある最大アスペクト比</string>
   <string name="misc_dynamic_sysbta">システム全体の BT HAL を使用する</string>
   <string name="misc_force_navbar_off">強制的にナビゲーションバーを無効化</string>
@@ -157,10 +157,10 @@
   <string name="samsung_flash_strength_summary">値は 1～5 の整数値になります</string>
   <string name="samsung_camera_ids">すべてのカメラをアクセス可能にする</string>
   <string name="samsung_camera_ids_summary">Q vendor が必要です</string>
-  <string name="samsung_workarounds">回避策</string>
+  <string name="samsung_workarounds">問題の回避</string>
   <string name="samsung_extra_sensors">追加のセンサーを有効化</string>
-  <string name="samsung_colorspace">画面が白っぽく表示される問題の回避策を有効化</string>
-  <string name="samsung_broken_fingerprint">壊れた指紋認証の回避策を有効化</string>
+  <string name="samsung_colorspace">画面が白っぽく表示される問題の回避を有効化</string>
+  <string name="samsung_broken_fingerprint">壊れた指紋認証の問題の回避を有効化</string>
   <string name="samsung_backlight_multiplier">バックライトスケール、レベルの最大値を設定</string>
   <!-- Xiaomi -->
   <string name="xiaomi_disable_sunlight_mode">太陽光スクリーンを無効化</string>
