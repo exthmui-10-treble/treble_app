@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="pref_custom_pointer_type">
+      <item>"マウスカーソル"</item>
+      <item>"ペンポインタ"</item>
+    </array>
+    <array name="pref_custom_pointer_type_values">
+      <item>"mouse"</item>
+      <item>"pen"</item>
+    </array>
+
+    <array name="pref_custom_accent_color">
+	    <item>"デフォルト"</item>
+    </array>
+    <array name="pref_custom_accent_color_values">
+	    <item>""</item>
+    </array>
+
+    <array name="pref_custom_icon_shape">
+	    <item>"デフォルト"</item>
+    </array>
+    <array name="pref_custom_icon_shape_values">
+	    <item>""</item>
+    </array>
+
+    <array name="pref_custom_icon_pack">
+	    <item>"デフォルト"</item>
+    </array>
+    <array name="pref_custom_icon_pack_values">
+	    <item>""</item>
+    </array>
+
+    <array name="pref_custom_font_family">
+	    <item>"デフォルト"</item>
+    </array>
+    <array name="pref_custom_font_family_values">
+	    <item>""</item>
+    </array>
+</resources>
