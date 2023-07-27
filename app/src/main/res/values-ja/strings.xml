@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="app_name">PhhTrebleApp</string>
   <string name="title_activity_settings">設定</string>
@@ -41,6 +40,7 @@
   <string name="doze">Doze</string>
   <string name="doze_handwave">ハンドウェーブジェスチャーを有効化</string>
   <string name="doze_pocket">ポケット取り出し時のジェスチャーを有効化</string>
+　<string name="doze_chopchop">Chop Chop ジェスチャーを有効化</string>
   <!-- General -->
   <string name="general_audio">オーディオ</string>
   <string name="general_camera">カメラ</string>
@@ -75,12 +75,12 @@
   <string name="huawei_fingerprint">指紋認証</string>
   <string name="huawei_fingerprint_gestures">指紋認証ジェスチャーを有効化</string>
   <string name="huawei_touchscreen_glove_mode">手袋モードを有効化</string>
-  <string name="huawei_graphic_issues_workaround">グラフィックの問題を回避する (画面がぼやけてしまう場合に推奨します)</string>
+  <string name="huawei_graphic_issues_workaround">グラフィックの問題を回避する (画面がぼやけてしまう場合に推奨)</string>
   <string name="huawei_fast_charge">Huawei の高速充電</string>
   <!-- IMS -->
   <string name="ims_create_apn">IMS APN を作成</string>
   <string name="ims_install_apn">IMS APK をダウンロードとインストール</string>
-  <string name="ims_request_network">IMS ネットワークをリクエスト</string>
+  <string name="ims_request_network">IMS ネットワークを要求</string>
   <string name="ims_force_enable_setting">VoLTE の設定を強制する</string>
   <!-- Misc -->
   <string name="misc_sponsor">Sponsor phh</string>
@@ -98,6 +98,8 @@
   <string name="misc_no_hwcomposer">HW オーバーレイを無効化</string>
   <string name="misc_no_hwcomposer_summary">CPU とバッテリーをより多く消費します</string>
   <string name="misc_aod">常時表示画面を強制する</string>
+  <string name="misc_mediatek_touch_hint_rotate">タッチの代わりに回転のパフォーマンスのヒントを表示する</string>
+  <string name="misc_mediatek_touch_hint_rotate_summary">MediaTek のデバイス向け</string>
   <string name="misc_backlight">バックライト</string>
   <string name="misc_linear_brightness">リニアスクリーンの輝度スライダーを使用する</string>
   <string name="misc_disable_buttons_backlight">ハードウェアボタンのバックライトがある場合は無効化する</string>
