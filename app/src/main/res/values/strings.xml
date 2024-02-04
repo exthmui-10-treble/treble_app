@@ -102,6 +102,8 @@
     <string name="misc_aod">Force allow Always-On Display</string>
     <string name="misc_mediatek_touch_hint_rotate">Rotation perf hint instead of touch</string>
     <string name="misc_mediatek_touch_hint_rotate_summary">For Mediatek devices</string>
+    <string name="misc_mediatek_ged_kpi">Mediatek GED KPI support</string>
+    <string name="misc_mediatek_ged_kpi_summary">Might improve GPU performance for Mediatek devices</string>
     <string name="misc_backlight">Backlight</string>
     <string name="misc_low_gamma_brightness">Set alternative brightness curve</string>
     <string name="misc_linear_brightness">Set linear brightness curve</string>

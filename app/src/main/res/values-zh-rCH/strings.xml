@@ -101,6 +101,8 @@
     <string name="misc_aod">强制始终显示</string>
     <string name="misc_mediatek_touch_hint_rotate">旋转性能而不是触摸性能</string>
     <string name="misc_mediatek_touch_hint_rotate_summary">对于MTK设备</string>
+    <string name="misc_mediatek_ged_kpi">Mediatek GED KPI支持</string>
+    <string name="misc_mediatek_ged_kpi_summary">可能会提高Mediatek设备的GPU性能</string>
     <string name="misc_backlight">亮度</string>
     <string name="misc_low_gamma_brightness">设置替代亮度曲线</string>
     <string name="misc_disable_buttons_backlight">禁用硬件按钮的背光 (如果存在)</string>

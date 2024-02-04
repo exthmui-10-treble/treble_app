@@ -75,6 +75,11 @@
             android:key="key_misc_mediatek_touch_hint_rotate"
             android:title="@string/misc_mediatek_touch_hint_rotate"
             android:summary="@string/misc_mediatek_touch_hint_rotate_summary"/>
+        <SwitchPreference
+            android:defaultValue="false"
+            android:key="key_misc_mediatek_ged_kpi"
+            android:title="@string/misc_mediatek_ged_kpi"
+            android:summary="@string/misc_mediatek_ged_kpi_summary"/>
 		<ListPreference
     	    android:defaultValue="1.86"
     	    android:entries="@array/pref_misc_max_aspect_ratio_pre_o"
